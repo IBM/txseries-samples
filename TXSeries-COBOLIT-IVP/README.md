@@ -21,4 +21,4 @@ To build TXSeries and COBOLIT docker image, follow the bellow steps
 5. Use the 3270 telnet client to connect to TXSeries region <Host IP Address>:3270
 6. User can run the IVP sample to vallidate whether the COBOLIT compiled applications are working successfully on TXSeries region
 7. User can connect to TXSeries Administration Console using https://Host-IP-Address:9443/txseries/admin  with username txadmin and password txadmin
-8. Follow the [IVP-Sample] (https://www.ibm.com/support/knowledgecenter/en/SSAL2T_9.1.0/com.ibm.cics.tx.doc/tasks/t_usg_tx_ivp_w_cobol.html) for more details
+8. Follow the [IVP-Sample](https://www.ibm.com/support/knowledgecenter/en/SSAL2T_9.1.0/com.ibm.cics.tx.doc/tasks/t_usg_tx_ivp_w_cobol.html) for more details
